@@ -1,0 +1,61 @@
+brotlipy==0.7.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.3
+colorama==0.4.6
+cryptography @ file:///C:/b/abs_36x9ifdcl4/croot/cryptography_1665612655344/work
+cycler==0.11.0
+easyocr==1.6.2
+Flask==2.2.2
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+fonttools==4.38.0
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+imageio==2.23.0
+importlib-metadata==5.2.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+joblib==1.2.0
+kiwisolver==1.4.4
+MarkupSafe==2.1.1
+matplotlib==3.5.3
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+networkx==2.6.3
+ninja==1.11.1
+numpy @ file:///C:/ci/numpy_and_numpy_base_1653574840943/work
+opencv-python==4.6.0.66
+opencv-python-headless==4.5.4.60
+packaging==22.0
+pandas==1.3.5
+Pillow==9.3.0
+psutil==5.9.4
+pyclipper==1.3.0.post4
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.9
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-bidi==0.4.2
+python-dateutil==2.8.2
+pytz==2022.7
+PyWavelets==1.3.0
+PyYAML==6.0
+requests @ file:///C:/ci/requests_1657735288441/work
+scikit-image==0.19.3
+scikit-learn==1.0.2
+scipy==1.7.3
+seaborn==0.12.1
+shapely==2.0.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+threadpoolctl==3.1.0
+tifffile==2021.11.2
+torch==1.13.1
+torchvision==0.14.1
+tqdm==4.64.1
+typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
+urllib3 @ file:///C:/b/abs_21qa0j12xt/croot/urllib3_1670527000672/work
+Werkzeug==2.2.2
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+zipp==3.11.0

@@ -1,0 +1,12 @@
+pip install pytorch
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install flask
+pip install opencv-python
+pip install matplotlib
+pip install seaborn
+pip install easyocr
+pip install tqdm
+pip install psutil
+pip install jupyter
